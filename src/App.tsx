@@ -1,11 +1,12 @@
 import './App.css'
+import Header from './Components/Header'
 import Home from './Screen/Home'
 
 function App() {
 
   return (
     <>
-      <Home/>
+      <Header />
     </>
   )
 }
